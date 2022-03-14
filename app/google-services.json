@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890525379989",
+    "firebase_url": "https://fertisales.firebaseio.com",
+    "project_id": "fertisales",
+    "storage_bucket": "fertisales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890525379989:android:a86ab913bb833cf04a9a9c",
+        "android_client_info": {
+          "package_name": "com.example.fertisales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890525379989-60uqrq9d4ab8aejfi4vf008ippn3r5hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiOg_Wj7nqnCRjpvJeqN2oSyibsrt__TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890525379989-60uqrq9d4ab8aejfi4vf008ippn3r5hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
