@@ -9,7 +9,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/patha/AndroidStudioProjects/FertiSales/app/src/main/res/layout/activity_product_list.xml" value="0.264" />
-        <entry key="..\:/patha/Projects/FertiSales/app/src/main/res/layout/activity_product_list.xml" value="0.176" />
+        <entry key="..\:/patha/Projects/FertiSales/app/src/main/res/layout/activity_add__stock.xml" value="0.23229166666666667" />
+        <entry key="..\:/patha/Projects/FertiSales/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/patha/Projects/FertiSales/app/src/main/res/layout/activity_product_list.xml" value="0.2" />
       </map>
     </option>
   </component>
